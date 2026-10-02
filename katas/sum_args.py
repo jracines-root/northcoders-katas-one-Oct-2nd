@@ -16,3 +16,5 @@ print(f"expected result : 5, actual result: {sum_args(5)}")
 print(f"expected result : 0, actual result: {sum_args()}")
 
 print(f"expected result : -9, actual result: {sum_args(-1,-3,-5)}")
+
+print(f"expected result : 15, actual result: {sum_args(1,2,3,10)}")
